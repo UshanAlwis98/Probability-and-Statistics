@@ -37,99 +37,148 @@ Statistics is a branch of mathematics that transforms data into the kind of usef
   <tr>
     <th>Lesson</th>
     <th>Lesson Name</th>
-    <th>Action</th>
+    <th>Theories</th>
+    <th>Questions</th>
+    <th>Answers</th>
   </tr>
 
+  <!-- LESSON 1 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%201-FFD700?style=for-the-badge" alt="Lesson 1"></td>
-    <td><img src="https://img.shields.io/badge/Probability%20Concepts-333333?style=for-the-badge&logoColor=white" alt="Lesson Name"></td>
-    <td><a href="./Probability_Concepts.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%201-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Probability%20Concepts-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L1_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L1_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L1_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 2 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%202-FFD700?style=for-the-badge" alt="Lesson 2"></td>
-    <td><img src="https://img.shields.io/badge/Random%20Variables%20and%20Probability%20Distributions-333333?style=for-the-badge&logoColor=white" alt="Lesson Name"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%202-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Random%20Variables%20and%20Probability%20Distributions-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L2_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L2_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L2_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 3 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%203-FFD700?style=for-the-badge" alt="Lesson 3"></td>
-    <td><img src="https://img.shields.io/badge/Continuous%20Random%20Variables%20and%20Normal%20Distribution-333333?style=for-the-badge&logoColor=white" alt="Lesson Name"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%203-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Continuous%20Random%20Variables%20and%20Normal%20Distribution-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L3_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L3_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L3_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 4 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%204-FFD700?style=for-the-badge" alt="Lesson 4"></td>
-    <td><img src="https://img.shields.io/badge/Introduction%20to%20Statistics-333333?style=for-the-badge&logoColor=white" alt="Lesson 4"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%204-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Introduction%20to%20Statistics-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L4_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L4_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L4_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 5 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%205-FFD700?style=for-the-badge" alt="Lesson 5"></td>
-    <td><img src="https://img.shields.io/badge/Organizing%20and%20Visualizing%20Data-333333?style=for-the-badge&logoColor=white" alt="Lesson 5"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%205-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Organizing%20and%20Visualizing%20Data-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L5_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L5_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L5_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 6 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%206-FFD700?style=for-the-badge" alt="Lesson 6"></td>
-    <td><img src="https://img.shields.io/badge/Descriptive%20Statistics-333333?style=for-the-badge&logoColor=white" alt="Lesson 6"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%206-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Descriptive%20Statistics-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L6_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L6_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L6_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 7 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%207-FFD700?style=for-the-badge" alt="Lesson 7"></td>
-    <td><img src="https://img.shields.io/badge/Sampling%20and%20the%20Sampling%20Distribution-333333?style=for-the-badge&logoColor=white" alt="Lesson 7"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%207-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Sampling%20and%20the%20Sampling%20Distribution-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L7_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L7_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L7_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 8 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%208-FFD700?style=for-the-badge" alt="Lesson 8"></td>
-    <td><img src="https://img.shields.io/badge/Interval%20Estimation-333333?style=for-the-badge&logoColor=white" alt="Lesson 8"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%208-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Interval%20Estimation-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L8_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L8_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L8_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 9 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%209-FFD700?style=for-the-badge" alt="Lesson 9"></td>
-    <td><img src="https://img.shields.io/badge/Hypothesis%20Testing-333333?style=for-the-badge&logoColor=white" alt="Lesson 9"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%209-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Hypothesis%20Testing-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L9_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L9_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L9_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 10 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%2010-FFD700?style=for-the-badge" alt="Lesson 10"></td>
-    <td><img src="https://img.shields.io/badge/Two--Sample%20Tests-333333?style=for-the-badge&logoColor=white" alt="Lesson 10"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%2010-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Two--Sample%20Tests-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L10_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L10_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L10_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 11 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%2011-FFD700?style=for-the-badge" alt="Lesson 11"></td>
-    <td><img src="https://img.shields.io/badge/ANOVA-333333?style=for-the-badge&logoColor=white" alt="Lesson 11"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%2011-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/ANOVA-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L11_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L11_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L11_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 12 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%2012-FFD700?style=for-the-badge" alt="Lesson 12"></td>
-    <td><img src="https://img.shields.io/badge/Chi--Square%20Tests%20and%20Non--Parametric%20Tests-333333?style=for-the-badge&logoColor=white" alt="Lesson 12"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%2012-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Chi--Square%20Tests%20and%20Non--Parametric%20Tests-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L12_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L12_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L12_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 13 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%2013-FFD700?style=for-the-badge" alt="Lesson 13"></td>
-    <td><img src="https://img.shields.io/badge/Correlation-333333?style=for-the-badge&logoColor=white" alt="Lesson 13"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%2013-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Correlation-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L13_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L13_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L13_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 14 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%2014-FFD700?style=for-the-badge" alt="Lesson 14"></td>
-    <td><img src="https://img.shields.io/badge/Simple%20Linear%20Regression-333333?style=for-the-badge&logoColor=white" alt="Lesson 14"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%2014-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Simple%20Linear%20Regression-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L14_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L14_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L14_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
+  <!-- LESSON 15 -->
   <tr>
-    <td><img src="https://img.shields.io/badge/Lesson%2015-FFD700?style=for-the-badge" alt="Lesson 15"></td>
-    <td><img src="https://img.shields.io/badge/Applications-333333?style=for-the-badge&logoColor=white" alt="Lesson 15"></td>
-    <td><a href="./Probability_and_Statistics.pdf"><img src="https://img.shields.io/badge/OPEN%20PDF-32CD32?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"></a></td>
+    <td><img src="https://img.shields.io/badge/Lesson%2015-FFD700?style=for-the-badge"></td>
+    <td><img src="https://img.shields.io/badge/Applications-333333?style=for-the-badge&logoColor=white"></td>
+    <td><a href="./L15_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
+    <td><a href="./L15_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./L15_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
+
 </table>
+
 
 </div>
 
