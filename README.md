@@ -83,7 +83,7 @@ Statistics is a branch of mathematics that transforms data into the kind of usef
     <td><img src="https://img.shields.io/badge/Lesson%205-FFD700?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/Organizing%20and%20Visualizing%20Data-333333?style=for-the-badge&logoColor=white"></td>
     <td><a href="./L5_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
-    <td><a href="./L5_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./Organizing_and_Visualizing_data_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
     <td><a href="./L5_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
