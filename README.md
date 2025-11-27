@@ -164,7 +164,7 @@ Statistics is a branch of mathematics that transforms data into the kind of usef
     <td><img src="https://img.shields.io/badge/Lesson%2014-FFD700?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/Simple%20Linear%20Regression-333333?style=for-the-badge&logoColor=white"></td>
     <td><a href="./L14_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
-    <td><a href="./L14_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./Simple_Linear_Regression_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
     <td><a href="./L14_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
