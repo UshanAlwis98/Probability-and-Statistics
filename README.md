@@ -137,7 +137,7 @@ Statistics is a branch of mathematics that transforms data into the kind of usef
     <td><img src="https://img.shields.io/badge/Lesson%2011-FFD700?style=for-the-badge"></td>
     <td><img src="https://img.shields.io/badge/ANOVA-333333?style=for-the-badge&logoColor=white"></td>
     <td><a href="./L11_Theory.pdf"><img src="https://img.shields.io/badge/THEORIES-1E90FF?style=for-the-badge"></a></td>
-    <td><a href="./L11_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
+    <td><a href="./ANOVA_Questions.pdf"><img src="https://img.shields.io/badge/QUESTIONS-FFA500?style=for-the-badge"></a></td>
     <td><a href="./L11_Answers.pdf"><img src="https://img.shields.io/badge/ANSWERS-8A2BE2?style=for-the-badge"></a></td>
   </tr>
 
